@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yogesh S Patil.
-- 👀 I’m interested in Software development, I have Worked as java developer with 3 years of experience.
+- 👀 I’m interested in Software development, I am Working as full-stack developer with 3 years of experience and currently working as module lead from 1 year.
 - 🌱 I’m currently learning microservices, AWS configuration.
 - 💞️ I’m looking to collaborate on Good environment organisation which will provide good work as well as fasionate project to build my skills.
 - 📫 How to reach me 
